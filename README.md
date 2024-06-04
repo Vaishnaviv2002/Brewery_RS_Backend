@@ -4,9 +4,9 @@ It leverages the Open Brewery DB API (https://www.openbrewerydb.org) to fetch br
 
 ## Deployment
 This project is currently live and accessible at Render: Brewery Review System.
-https://brewery-review-system-frontend-1.onrender.com
+https://vaishnavi-brewery-rs-frontend.onrender.com
 
-Frontend Code Repository: https://github.com/GHulk-19/Brewery_Review_System_Frontend
+Frontend Code Repository: https://github.com/Vaishnaviv2002/Brewery_RS_Frontend
 
 ## Features
 
@@ -26,12 +26,12 @@ To get the Brewery Review System up and running on your local machine, follow th
 ### 1. Clone the Repository
 First, clone the repository to your local machine using the following command:
 ```bash
-git clone https://github.com/GHulk-19/Brewery_Review_System-Backend-
+git clone https://github.com/Vaishnaviv2002/Brewery_RS_Backend
 ```
 ### 2. Install Dependencies
 Navigate to the project directory and install all the necessary dependencies:
 ```bash
-cd Brewery_Review_System-Backend-
+cd Brewery_Review_System-Backend--main
 npm install
 ```
 ### 3. Start the Project
